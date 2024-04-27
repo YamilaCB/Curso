@@ -1,0 +1,12 @@
+print("------------------------------------------")
+print("               EJERCICIO 6")
+print("------------------------------------------")
+print ("Ingrese las coordenadas del punto A: ")
+AX = float(input("Ax: "))
+AY = float(input("Ay: "))
+print ("Ingrese las coordenadas del punto B: ")
+BX = float(input("Bx: "))
+BY = float(input("By: "))
+distancia = ((AX-BX)**2 + (AY-BY)**2)**0.5
+print ("El resultado es: ", distancia)
+print("------------------------------------------")

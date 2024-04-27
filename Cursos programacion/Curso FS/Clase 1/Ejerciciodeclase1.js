@@ -1,0 +1,16 @@
+console.log("-----------------------------------------------");
+console.log("-----------Ejercicios de clase 1-----------");
+console.log("-----------------------------------------------");
+console.log("a) Cocinar una torta");
+console.log ("Paso 1)Tener preparados todos los ingredientes necesarios");
+console.log ("Paso 2) Precalentar el horno a 180ºC (3501F)");
+console.log ("Paso 3) Preparar el molde (engrasar/enharinar)");
+console.log ("Paso 4) Mezclar ingredientes secos (harina, polvo de hornear, sal, etc)");
+console.log ("Paso 5) Batir manteca y azucar");
+console.log ("Paso 6) Añadir huevos");
+console.log ("Paso 7) Añadir ingredientes secos y liquidos (harina, leche, etc)");
+console.log ("Paso 8) Vertir la masa en el molde");
+console.log ("Paso 9) Hornear la torta en el horno precalentado unos 40 minutos");
+console.log ("Paso 10) Dejar enfriar unos 10 minutos");
+console.log ("Paso 11) Decorar y servir");
+console.log("-----------------------------------------------");

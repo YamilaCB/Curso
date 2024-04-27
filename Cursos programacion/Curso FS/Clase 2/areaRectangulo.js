@@ -1,0 +1,10 @@
+console.log(5 * 10);
+var numero = 10;
+console.log(numero);
+numero = 20;
+console.log(numero);
+var mensaje;
+mensaje = "hola";
+console.log(mensaje);
+var mensaje2 = "'hola 2'";
+console.log(mensaje2);

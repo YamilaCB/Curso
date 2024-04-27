@@ -1,0 +1,10 @@
+print("------------------------------------------")
+print("               EJERCICIO 8")
+print("------------------------------------------")
+base= float (input ("Ingrese la base del rectangulo: "))
+altura= float (input ("Ingrese la altura del rectangulo: "))
+sup = base * altura
+perim = 2*(base + altura)
+print ("La superficie es; ", sup)
+print("El perimetro es: ", perim)
+print("------------------------------------------")
